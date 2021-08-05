@@ -12,7 +12,7 @@ The app has file type associations with .jpg, .jpeg, .png
 
 For testing:
 * Don't use One Drive folder.
-* Create a folder one empty sub-folder and single .jpg file(or you can unzip the pics.zip)
+* Create a folder with one empty sub-folder and one .jpg file(or you can unzip the pics.zip)
 * Right click on the jpg file in the folder
 * Open with > StorageQueryTest
 
